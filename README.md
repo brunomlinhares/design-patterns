@@ -25,7 +25,7 @@ Neste repositório, vou utilizar como estudo, exemplos práticos de Design Patte
 - Proxy
 
 ### Padrões Comportamentais
-- Chain of Responsibility
+- ✅ Chain of Responsibility
 - Command
 - Iterator
 - Mediator
